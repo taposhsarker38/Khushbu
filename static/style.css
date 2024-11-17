@@ -1,0 +1,1274 @@
+@media screen and (max-width: 500px)
+         {
+         .discount_price {
+         text-align: center;
+         }
+         .regular_price {
+         text-align: center;
+         }
+         }
+         .top_heading_text {
+            border: 7px solid green;
+            border-radius: 10px;
+            font-size: 29px;
+            text-align: center;
+            width: 70%;
+            margin: 0 auto;
+            font-family: 'Hind Siliguri', sans-serif !important;
+            }
+      
+         .video-box iframe {
+         width: 100% !important;
+         padding: 5px;
+         border: 1px solid gray;
+         background: #80808000;
+         border-radius: 5px;
+         }
+         .simple-translate-result {
+         display: none !important;
+         }
+         .simple-translate-candidate {
+         display: none !important;
+         }
+         .ord_section {
+         padding-left: 0px;
+         }
+         .billing-fields .form-group label {
+         font-family: 'Hind Siliguri', sans-serif !important;
+         }
+         .product-name-td {
+         font-family: 'Hind Siliguri', sans-serif !important;
+         }
+         ul {
+         list-style: none;
+         padding-left: 0px;
+         }
+         ul li {
+         padding-left: 20px; 
+         line-height: 1.5; 
+         padding: 14px;
+         border-bottom: 1px solid #000;
+         font-size: 20px;
+         }
+         ul li p {
+         font-family: 'Hind Siliguri', sans-serif !important;
+         }
+         ul li::before {
+         content: ""; 
+         display: inline-block; 
+         width: 20px; 
+         height: 20px; 
+         background-image: url(https://www.tuhfalimited.com/frontend/images/arrow.png); 
+         background-size: cover; 
+         background-repeat: no-repeat;
+         margin-right: 10px;
+         ine-height: 1.5;
+         } 
+         .top-heading-title {
+         font-family: 'Hind Siliguri', sans-serif !important;
+         }
+         .top_div {
+         position: relative;
+         height: 70px;
+         background: red;
+         margin-top: 20px;
+         height: 500px;
+         }
+         .shape{
+         position: absolute;
+         width: 50px;
+         height: 50px;
+         background: red;
+         transform: rotate(45deg);
+         right: -7%;
+         top: 15%;
+         }
+         .another_div {
+         position: relative;
+         height: 70px;
+         margin-top: 20px;
+         border: 1px solid black;
+         border-left: none;
+         }
+         .left_side_details ul li {
+         font-family: 'Hind Siliguri', sans-serif !important;
+         }
+         .right_side_details ul li {
+         font-family: 'Hind Siliguri', sans-serif !important;
+         }
+         .left_product_details ul li {
+         font-family: 'Hind Siliguri', sans-serif !important;
+         }
+         @media screen and (min-width: 992px) and (max-width: 1199px) {
+         .price_section {
+         padding-left: 0px !important;
+         }
+         .shape {
+         position: absolute;
+         width: 48px !important;
+         height: 48px !important;
+         background: red;
+         transform: rotate(45deg);
+         right: -9% !important;
+         top: 15% !important;
+         }
+         .top_div h3 {
+         font-size: 30px !important;
+         }
+         .another_div h3 {
+         font-size: 30px !important;
+         }
+         }
+         @media screen and (min-width: 768px) and (max-width: 991px) {
+         .top-div .container .element-width .top-box-weight .top-heading-title{
+         font-size: 44px;
+         }
+         .top-div .container .text-info-box .top-heading-title{
+         font-size: 24px;
+         line-height: 1.3em;
+         }
+         /*Price Section*/
+         .price_section {
+         padding-left: 0px !important;
+         }
+         .shape {
+         right: -12% !important;
+         width: 48px !important;
+         height: 48px !important;
+         }
+         .top_div h3 {
+         font-size: 35px !important;
+         float: none !important;
+         }
+         .another_div h3 {
+         font-size: 35px !important;
+         float: none !important;
+         }
+         }
+         @media screen and (min-width: 576px) and (max-width: 767px) {
+         .priceHover {
+         font-size: 14px;
+         padding: 8px 2px !important;
+         }
+         .top-div .container .element-width {
+         padding: 26px 0px 0px 0px !important;
+         margin-bottom: 10px !important;
+         }
+         .top-div .container .element-width .top-box-weight .top-heading-title {
+         font-size: 15px !important;
+         line-height: 1.3em;
+         }
+         .top-div .container .text-info-box .top-heading-title {
+         font-size: 17px !important;
+         line-height: 1.3em;
+         }
+         .video-box iframe {
+         height: 210px !important;
+         }
+         .overview {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px;
+         }
+         .feature-list {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         line-height: 1.3em !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px;
+         }
+         .ord {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         }
+         .address_section {
+         width: 100% !important;
+         }
+         .order-col {
+         width: 100% !important;
+         }
+         /*Price Section*/
+         .price_section {
+         padding-left: 0px !important;
+         }
+         .phone img {
+         height: 25px !important;
+         width: 25px !important;
+         }
+         .shape {
+         right: -13% !important;
+         width: 50px !important;
+         height: 50px !important;
+         }
+         .top_div {
+         width: 42% !important;
+         }
+         .another_div {
+         width: 42% !important;
+         }
+         .top_div h3 {
+         font-size: 30px !important;
+         float: none !important;
+         }
+         .another_div h3 {
+         font-size: 30px !important;
+         float: none !important;
+         }
+         }
+         @media screen and (min-width: 484px) and (max-width: 575px) {
+         .priceHover {
+         font-size: 14px;
+         }
+         .top-div .container .element-width {
+         padding: 26px 0px 0px 0px !important;
+         margin-bottom: 10px !important;
+         }
+         .top-div .container .element-width .top-box-weight .top-heading-title {
+         font-size: 15px !important;
+         line-height: 1.3em;
+         }
+         .top-div .container .text-info-box .top-heading-title {
+         font-size: 17px !important;
+         line-height: 1.3em;
+         }
+         .video-box iframe {
+         height: 210px !important;
+         }
+         .overview {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px;
+         }
+         .feature-list {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         line-height: 1.3em !important;
+         }
+         .order_btn img {
+         height: 10px !important;
+         }
+         #review_section .review_slider img{
+         height: 95px !important;
+         }
+         .top_section {
+         width: 100% !important;
+         }
+         .bottom_section {
+         width: 90% !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px;
+         }
+         .ord {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         }
+         .address_section {
+         width: 100% !important;
+         }
+         .order-col {
+         width: 100% !important;
+         }
+         /*Price Section*/
+         .price_section {
+         padding-left: 38px !important;
+         }
+         .phone img {
+         height: 25px !important;
+         width: 25px !important;
+         }
+         .shape {
+         right: -13% !important;
+         width: 50px !important;
+         height: 50px !important;
+         }
+         .top_div {
+         width: 45% !important;
+         }
+         .another_div {
+         width: 45% !important;
+         }
+         .top_div h3 {
+         font-size: 30px !important;
+         float: none !important;
+         }
+         .another_div h3 {
+         font-size: 30px !important;
+         float: none !important;
+         }
+         }
+         @media screen and (min-width: 424px) and (max-width: 483px) {
+         .top-div .container .element-width {
+         padding: 26px 0px 0px 0px !important;
+         margin-bottom: 10px !important;
+         }
+         .top-div .container .element-width .top-box-weight .top-heading-title {
+         font-size: 15px !important;
+         line-height: 1.3em;
+         }
+         .top-div .container .text-info-box .top-heading-title {
+         font-size: 17px !important;
+         line-height: 1.3em;
+         }
+         .first_section {
+         width: 60% !important;
+         }
+         .ord_section {
+         margin-bottom: 10px;
+         }
+         .top-div {
+         background-repeat: no-repeat !important;
+         background-position: center !important;
+         background-size: cover !important;
+         }
+         #review_section .review_slider img{
+         height: 95px !important;
+         }
+         .order_btn img {
+         height: 10px !important;
+         }
+         .top_section {
+         width: 100% !important;
+         }
+         .top_heading_text {
+         font-size: 20px !important;
+         padding: 15px !important;
+         width: 100% !important;
+         }
+         .bottom_section {
+         width: 90% !important;
+         }
+         .video-box iframe {
+         height: 210px !important;
+         }
+         .overview {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px;
+         }
+         .feature-list {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         line-height: 1.3em !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px;
+         }
+         .ord {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         }
+         .address_section {
+         width: 100% !important;
+         }
+         .order-col {
+         width: 100% !important;
+         }
+         /*Price Section*/
+         .price_section {
+         padding-left: 38px !important;
+         }
+         .phone img {
+         height: 25px !important;
+         width: 25px !important;
+         }
+         .shape {
+         right: -13% !important;
+         width: 35px !important;
+         height: 35px !important;
+         }
+         .top_div {
+         width: 45% !important;
+         height: 50px !important;
+         }
+         .another_div label {
+         font-size: 12px !important;
+         }
+         .top_div label {
+         font-size: 12px !important;
+         }
+         .top-div {
+         width: 100% !important;
+         height: auto !important;
+         }
+         .first_section {
+         width: 100% !important;
+         text-align: center !important;
+         margin: 0 auto;
+         }
+         .ord_section {
+         margin-bottom: 10px;
+         }
+         .top-div .container .element-width .top-box-weight {
+         width: 100% !important;
+         }
+         .price_top_section {
+         width: 70% !important;
+         margin: 0 auto;
+         padding: 8px;
+         }
+         .another_div {
+         width: 45% !important;
+         height: 50px !important;
+         }
+         .top_div h3 {
+         font-size: 25px !important;
+         float: none !important;
+         }
+         .another_div h3 {
+         font-size: 26px !important;
+         float: none !important;
+         }
+         }
+         @media screen and (min-width: 400px) and (max-width: 423px) {
+         .top-div .container .element-width {
+         padding: 26px 0px 0px 0px !important;
+         margin-bottom: 10px !important;
+         }
+         .top-div .container .element-width .top-box-weight .top-heading-title {
+         font-size: 15px !important;
+         line-height: 1.3em;
+         }
+         .top-div .container .text-info-box .top-heading-title {
+         font-size: 17px !important;
+         line-height: 1.3em;
+         }
+         .top-div {
+         width: 100% !important;
+         height: auto !important;
+         }
+         .top-div {
+         background-repeat: no-repeat !important;
+         background-position: center !important;
+         background-size: cover !important;
+         }
+         #review_section .review_slider img{
+         height: 95px !important;
+         }
+         .top_heading_text {
+         font-size: 20px !important;
+         padding: 15px !important;
+         width: 100% !important;
+         }
+         .first_section {
+         width: 60% !important;
+         }
+         .ord_section {
+         margin-bottom: 10px;
+         }
+         .order_btn img {
+         height: 10px !important;
+         }
+         .top_section {
+         width: 100% !important;
+         }
+         .bottom_section {
+         width: 90% !important;
+         }
+         .top-div .container .element-width .top-box-weight {
+         width: 100% !important;
+         }
+         .video-box iframe {
+         height: 210px !important;
+         }
+         .overview {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px;
+         }
+         .feature-list {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         line-height: 1.3em !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px;
+         }
+         .ord {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         }
+         .address_section {
+         width: 100% !important;
+         }
+         .order-col {
+         width: 100% !important;
+         }
+         .first_section {
+         width: 100% !important;
+         text-align: center !important;
+         margin: 0 auto;
+         }
+         .ord_section {
+         margin-bottom: 10px;
+         }
+         .price_top_section {
+         width: 70% !important;
+         margin: 0 auto;
+         padding: 8px;
+         }
+         /*Price Section*/
+         .price_section {
+         padding-left: 38px !important;
+         }
+         .phone img {
+         height: 25px !important;
+         width: 25px !important;
+         }
+         .shape {
+         right: -13% !important;
+         width: 35px !important;
+         height: 35px !important;
+         }
+         .top_div {
+         width: 45% !important;
+         height: 50px !important;
+         }
+         .another_div label {
+         font-size: 12px !important;
+         margin-left: 12px !important;
+         }
+         .top_div label {
+         font-size: 12px !important;
+         margin-left: 12px !important;
+         }
+         .another_div {
+         width: 45% !important;
+         height: 50px !important;
+         }
+         .top_div h3 {
+         font-size: 25px !important;
+         float: none !important;
+         }
+         .another_div h3 {
+         font-size: 26px !important;
+         float: none !important;
+         }
+         }
+         @media screen and (min-width: 375px) and (max-width: 399px) {
+         .top-div .container .element-width {
+         padding: 26px 0px 0px 0px !important;
+         margin-bottom: 10px !important;
+         }
+         .top-div .container .element-width .top-box-weight .top-heading-title {
+         font-size: 15px !important;
+         line-height: 1.3em;
+         }
+         .first_section {
+         width: 100% !important;
+         text-align: center !important;
+         margin: 0 auto;
+         }
+         .ord_section {
+         margin-bottom: 10px;
+         }
+         #review_section .review_slider img{
+         height: 95px !important;
+         }
+         .top-div {
+         width: 100% !important;
+         height: auto !important;
+         }
+         .top-div .container .text-info-box .top-heading-title {
+         font-size: 17px !important;
+         line-height: 1.3em;
+         }
+         .video-box iframe {
+         height: 210px !important;
+         }
+         .overview {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         }
+         .order_btn img {
+         height: 10px !important;
+         }
+         .top_section {
+         width: 100% !important;
+         }
+         .bottom_section {
+         width: 90% !important;
+         }
+         .top-div .container .element-width .top-box-weight {
+         width: 100% !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px;
+         }
+         .feature-list {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         line-height: 1.3em !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px;
+         }
+         .ord {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         }
+         .address_section {
+         width: 100% !important;
+         }
+         .order-col {
+         width: 100% !important;
+         }
+         /*Price Section*/
+         .price_section {
+         padding-left: 38px !important;
+         }
+         .phone img {
+         height: 25px !important;
+         width: 25px !important;
+         }
+         .top-div {
+         background-repeat: no-repeat !important;
+         background-position: center !important;
+         background-size: cover !important;
+         }
+         .top_section {
+         font-size: 13px !important;
+         }
+         .bottom_section p {
+         font-size: 16px !important;
+         }
+         .price_top_section {
+         width: 60% !important;
+         margin: 0 auto;
+         padding: 10px !important;
+         font-size: 19px !important;
+         }
+         .ord_section .btn{
+         font-size: 20px !important;
+         }
+         .left_side_details {
+         padding: 10px !important;
+         }
+         .right_side_details {
+         padding: 10px !important;
+         }
+         .top_heading_text {
+         font-size: 20px !important;
+         padding: 15px !important;
+         width: 100% !important;
+         }
+         .shape {
+         right: -13% !important;
+         width: 35px !important;
+         height: 35px !important;
+         }
+         .top_div {
+         width: 45% !important;
+         height: 50px !important;
+         }
+         .another_div label {
+         font-size: 8px !important;
+         margin-left: 12px !important;
+         }
+         .top_div label {
+         font-size: 8px !important;
+         margin-left: 12px !important;
+         }
+         .another_div {
+         width: 45% !important;
+         height: 50px !important;
+         }
+         .top_div h3 {
+         font-size: 25px !important;
+         float: none !important;
+         }
+         .another_div h3 {
+         font-size: 26px !important;
+         float: none !important;
+         }
+         /*Price Section*/
+         }
+         @media screen and (min-width: 320px) and (max-width: 374px) {
+         .video-box iframe {
+         height: 210px !important;
+         }  
+         .priceHover {
+         font-size: 14px;
+         padding: 8px 2px !important;
+         }
+         .top-div .container .element-width {
+         padding: 26px 0px 0px 0px !important;
+         margin-bottom: 10px !important;
+         }
+         .first_section {
+         width: 100% !important;
+         text-align: center !important;
+         margin: 0 auto;
+         }
+         #review_section .review_slider img{
+         height: 95px !important;
+         }
+         .price_top_section {
+         width: 70% !important;
+         margin: 0 auto;
+         padding: 8px;
+         font-size: 19px !important;
+         }
+         .ord_section {
+         margin-bottom: 10px;
+         }
+         .top-div .container .element-width .top-box-weight {
+         width: 100% !important;
+         }
+         .order_btn {
+         font-size: 10px !important;
+         }
+         .order_btn_img {
+         height: 20px !important;
+         }
+         .top_section {
+         width: 100% !important;
+         }
+         .bottom_section {
+         width: 90% !important;
+         }
+         .top-div .container .element-width .top-box-weight .top-heading-title {
+         font-size: 15px !important;
+         line-height: 1.3em;
+         }
+         .top-div .container .text-info-box .top-heading-title {
+         font-size: 17px !important;
+         line-height: 1.3em;
+         }
+         .overview {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px;
+         }
+         .slide_top {
+         padding-left: 0px !important;
+         }
+         .feature-list {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         line-height: 1.3em !important;
+         }
+         ul {
+         padding-left: 0px !important;
+         }
+         .feature-list ul li {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px !important;
+         }
+         .ord {
+         padding-left: 0px !important;
+         }
+         .ord {
+         padding-left: 0px !important;
+         line-height: 1.3em !important;
+         }
+         .price_section {
+         padding-left: 25px !important;
+         }
+         .phone img {
+         height: 25px !important;
+         width: 25px !important;
+         }
+         .shape {
+         right: -13% !important;
+         width: 35px !important;
+         height: 35px !important;
+         }
+         .top-div {
+         width: 100% !important;
+         height: auto !important;
+         }
+         .top_section {
+         font-size: 13px !important;
+         }
+         .bottom_section p {
+         font-size: 16px !important;
+         }
+         .left_side_details {
+         padding: 10px !important;
+         }
+         .right_side_details {
+         padding: 10px !important;
+         }
+         .top_heading_text {
+         font-size: 20px !important;
+         padding: 15px !important;
+         width: 100% !important;
+         }
+         .another_div label {
+         font-size: 8px !important;
+         margin-left: 5px !important;
+         }
+         .top_div label {
+         font-size: 8px !important;
+         margin-left: 5px !important;
+         }
+         .another_div {
+         width: 45% !important;
+         height: 50px !important;
+         }
+         .top_div h3 {
+         font-size: 25px !important;
+         float: none !important;
+         }
+         .another_div h3 {
+         font-size: 26px !important;
+         float: none !important;
+         }
+         .address_section {
+         width: 100% !important;
+         }
+         .container .ani-btn-box .inner-padding .btn {
+         font-weight: 700;
+         background-color: #F1A415;
+         border-style: solid;
+         border-width: 3px 3px 3px 3px;
+         border-radius: 10px 10px 10px 10px;
+         box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+         padding: 25px 15px 25px 15px;
+         transition: 0.3s;
+         text-decoration: none;
+         }
+         .container .ani-btn-box .inner-padding #order_btn2 {
+         font-size: 19px;
+         font-weight: 700;
+         background-color: #F1A415;
+         border-style: solid;
+         border-width: 3px 3px 3px 3px;
+         border-radius: 10px 10px 10px 10px;
+         box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+         padding: 20px 6px 20px 6px;
+         transition: 0.3s;
+         text-decoration: none;
+         }
+         .container .ani-btn-box .inner-padding #order_btn2 img{
+         height: 20px !important;
+         }
+         .main-wrapper {
+         background: #F3FFED;
+         }
+         .top-div {
+         background-repeat: no-repeat;
+         height: 500px;
+         background-position: center;
+         background-size: cover;
+         }
+         }
+         @media screen and (min-width: 280px) and (max-width: 319px) {
+         .top-div .container .element-width {
+         padding: 26px 0px 0px 0px !important;
+         margin-bottom: 10px !important;
+         }
+         .left_side_text {
+         font-size: 22px !important;
+         }
+         .first_section {
+         width: 100% !important;
+         text-align: center !important;
+         margin: 0 auto;
+         }
+         #review_section .review_slider img{
+         height: 95px !important;
+         }
+         .price_top_section {
+         width: 90% !important;
+         margin: 0 auto;
+         padding: 8px;
+         font-size: 19px !important;
+         }
+         .ord_section {
+         margin-bottom: 10px;
+         }
+         .top-div .container .element-width .top-box-weight {
+         width: 100% !important;
+         }
+         .order_btn {
+         font-size: 10px !important;
+         }
+         .order_btn_img {
+         height: 15px !important;
+         }
+         .top_section {
+         width: 100% !important;
+         }
+         .bottom_section {
+         width: 90% !important;
+         }
+         .top-div .container .element-width .top-box-weight .top-heading-title {
+         font-size: 15px !important;
+         line-height: 1.3em;
+         }
+         .top-div .container .text-info-box .top-heading-title {
+         font-size: 17px !important;
+         line-height: 1.3em;
+         }
+         .overview {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px;
+         }
+         .slide_top {
+         padding-left: 0px !important;
+         }
+         .feature-list {
+         padding-left: 0px !important;
+         }
+         .down-div .container .element-widget .top-heading-title {
+         font-size: 17px !important;
+         line-height: 1.3em !important;
+         }
+         ul {
+         padding-left: 0px !important;
+         }
+         .feature-list ul li {
+         padding-left: 0px !important;
+         font-size: 15px !important;
+         }
+         .down-div .container .element-widget-wrap {
+         padding: 10px !important;
+         }
+         .ord {
+         padding-left: 0px !important;
+         }
+         .ord {
+         padding-left: 0px !important;
+         line-height: 1.3em !important;
+         }
+         .price_section {
+         padding-left: 25px !important;
+         }
+         .phone img {
+         height: 25px !important;
+         width: 25px !important;
+         }
+         .shape {
+         right: -13% !important;
+         width: 35px !important;
+         height: 35px !important;
+         }
+         .top-div {
+         width: 100% !important;
+         height: auto !important;
+         }
+         .top_section {
+         font-size: 13px !important;
+         }
+         .bottom_section p {
+         font-size: 16px !important;
+         }
+         .left_side_details {
+         padding: 10px !important;
+         }
+         .right_side_details {
+         padding: 10px !important;
+         }
+         .top_heading_text {
+         font-size: 15px !important;
+         padding: 15px !important;
+         width: 100% !important;
+         }
+         .another_div label {
+         font-size: 8px !important;
+         margin-left: 5px !important;
+         }
+         .top_div label {
+         font-size: 8px !important;
+         margin-left: 5px !important;
+         }
+         .another_div {
+         width: 45% !important;
+         height: 50px !important;
+         }
+         .top_div h3 {
+         font-size: 25px !important;
+         float: none !important;
+         }
+         .another_div h3 {
+         font-size: 26px !important;
+         float: none !important;
+         }
+         .address_section {
+         width: 100% !important;
+         }
+         .container .ani-btn-box .inner-padding .btn {
+         font-weight: 700;
+         background-color: #F1A415;
+         border-style: solid;
+         border-width: 3px 3px 3px 3px;
+         border-radius: 10px 10px 10px 10px;
+         box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+         padding: 20px 10px 20px 10px;
+         transition: 0.3s;
+         text-decoration: none;
+         }
+         .container .ani-btn-box .inner-padding #order_btn2 {
+         font-size: 19px;
+         font-weight: 700;
+         background-color: #F1A415;
+         border-style: solid;
+         border-width: 3px 3px 3px 3px;
+         border-radius: 10px 10px 10px 10px;
+         box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+         padding: 20px 6px 20px 6px;
+         transition: 0.3s;
+         text-decoration: none;
+         }
+         .container .ani-btn-box .inner-padding #order_btn2 img{
+         height: 20px !important;
+         }
+         .main-wrapper {
+         background: #F3FFED;
+         }
+         .top-div {
+         background-repeat: no-repeat;
+         height: 500px;
+         background-position: center;
+         background-size: cover;
+         }
+         }
+         @media screen and (min-width: 992px) {
+         .top-div {
+         background-repeat: no-repeat !important;
+         height: 600px !important;
+         background-position: center !important;
+         background-size: cover !important;
+         } 
+         }
+         .priceHover:hover {
+         color: #fe730c;
+         cursor:pointer;
+         }
+         .priceHover{
+         background: #247862;
+         box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+         color: #fff;
+         }
+         .priceHoverS{
+         background: #000;
+         color: #fff;
+         box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+         }
+         button.accordion-button.collapsed {
+         font-size: 20px;
+         font-weight: bold;
+         }
+         .priceHoverS:hover{
+         background: #1d6987;
+         cursor:pointer;
+         color: #fff;
+         }
+         .style_livenow__Qm0qO:nth-child(2) {
+         animation-delay: .16s;
+         }
+         .style_livenow__Qm0qO {
+         vertical-align: middle;
+         margin-top: -6px;
+         position: absolute;
+         animation: style_live__eePVk 5.5s ease-in-out infinite;
+         animation-fill-mode: both;
+         }
+         @keyframes style_live__eePVk {
+         0%, 100% {
+         transform: scale(.2);
+         opacity: 1;
+         }
+         50% {
+         transform: scale(1.2);
+         opacity: 1;
+         }
+         }
+         *{
+         font-family: 'Hind Siliguri', sans-serif;
+         }
+         @media screen and (min-width: 320px) and (max-width: 768px) {
+         .container .ani-btn-box .inner-padding .btn {
+         padding: 7px 5px 6px 5px;
+         }
+         .pageName {
+         font-size: 10px;
+         }
+         }
+         @media screen and (min-width: 360px) and (max-width: 370px) {
+         .priceHover{
+         font-size: 14px !important;
+         }
+         }
+         @media screen and (min-width: 320px) and (max-width: 360px) {
+         .pageName {
+         font-size: 8px;
+         }
+         .priceHover{
+         font-size: 12px !important;
+         }
+         }
+         .sizes{
+          display: flex;
+          }
+          .sizes .size {
+          padding: 3px;
+          margin: 5px;
+          border: 1px solid #ff730b;
+          width: auto;
+          text-align: center;
+          cursor: pointer;
+          }
+          .sizes .size.active{
+          background: #ff730b;
+          color: white;
+          }
+          .colors{
+          /*display: flex;*/
+          }
+          .colors .color {
+          padding: 5px;
+          margin: 5px;
+          border: 1px solid #FE9017;
+          width: auto;
+          text-align: center;
+          cursor: pointer;
+          display: inline-block;
+          height: 70px;
+          width: 70px;
+          }
+          .colors .color.active{
+          background: #0d6efd;
+          color: white;
+          font-weight: bold;
+          padding: 0px;
+          border: 4px solid white;
+          outline: 2px solid red;
+          }
+          .increase-qty {
+          width: 32px;
+          display: block;
+          float: left;
+          line-height: 26px;
+          cursor: pointer;
+          text-align: center;
+          font-size: 16px;
+          font-weight: 300;
+          color: #000;
+          height: 32px;
+          background: #f6f7fb;
+          border-radius: 50%;
+          transition: .3s;
+          border: 2px solid rgba(0,0,0,0);
+          background: #ffffff;
+          border: 1px solid #ddd;
+          border-radius: 10%;
+          }
+          .decrease-qty {
+          width: 32px;
+          display: block;
+          float: left;
+          line-height: 26px;
+          cursor: pointer;
+          text-align: center;
+          font-size: 16px;
+          font-weight: 300;
+          color: #000;
+          height: 32px;
+          background: #f6f7fb;
+          border-radius: 50%;
+          transition: .3s;
+          border: 2px solid rgba(0,0,0,0);
+          background: #ffffff;
+          border: 1px solid #ddd;
+          border-radius: 10%;
+          }
+          h2.top-heading-title.text-light p {
+          color: #000;
+          }
+          .product-name {
+          font-family: 'Hind Siliguri', sans-serif !important;
+          }
+          .product-total {
+          font-family: 'Hind Siliguri', sans-serif !important;
+          }
+          @media screen and (min-width: 320px) and (max-width: 360px) {
+          .priceHover {
+          font-size: 14px;
+          padding: 8px 2px !important;
+          }
+          }
+          @media screen and (min-width: 361px) and (max-width: 567px) {
+          .priceHover {
+          font-size: 16px;
+          padding: 8px 2px !important;
+          }
+          }
+          @media screen and (min-width: 568px) and (max-width: 767px) {
+          .priceHover {
+          font-size: 19px;
+          padding: 0 !important;
+          }
+          }
+          .element-widget-cover.my-5, .top-heading-title{
+          margin-top: 10px !important;
+          }
