@@ -3,9 +3,8 @@ from .models import Order  # Replace with your model if necessary
 from django.views.decorators.csrf import csrf_exempt
 from django.core.exceptions import ValidationError
 from django.http import JsonResponse
-from django.shortcuts import render
+from django.shortcuts import render,redirect
 import re
-
 def checkout(request):
     if request.method == 'POST':
         # Retrieve form data
@@ -20,25 +19,6 @@ def checkout(request):
         total_amount = request.POST.get('total_amount')
         product_name = request.POST.get('product_name')
         
-
-        # Validate shipping name
-        if not shipping_name or len(shipping_name) < 2:
-            return JsonResponse({'success': False, 'msg': 'Name must be at least 2 characters long.'})
-
-        # Validate phone number length and format
-        if len(shipping_phone) > 15:
-            return JsonResponse({'success': False, 'msg': 'Phone number cannot exceed 15 characters.'})
-        if not re.match(r'^\+?\d{1,15}$', shipping_phone):
-            return JsonResponse({'success': False, 'msg': 'Invalid phone number format.'})
-
-        # Validate shipping method
-        if not shipping_method or not shipping_method.isdigit():
-            return JsonResponse({'success': False, 'msg': 'Invalid shipping method.'})
-
-        # Validate shipping address
-        if not shipping_address or len(shipping_address) < 5:
-            return JsonResponse({'success': False, 'msg': 'Address must be at least 5 characters long.'})
-
         # Validate product ID
         if not product_id or not product_id.isdigit():
             return JsonResponse({'success': False, 'msg': 'Invalid product ID.'})
@@ -91,11 +71,9 @@ def checkout(request):
         )
         order.save()
 
-        return JsonResponse({'success': True, 'msg': 'Order placed successfully!', 'url': '/success/'})
+        return redirect('order_success')
 
     return render(request, 'index.html')
-
-
 def order_success(request):
     # Get the message from the query parameter, if available
     message = request.GET.get('msg', 'Thank you for your order!')

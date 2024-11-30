@@ -7,8 +7,6 @@ from mysql.connector.django.base import DatabaseWrapper
 
 # Override the display_name method
 DatabaseWrapper.display_name = property(lambda self: "MySQL (Connector)")
-
-
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
